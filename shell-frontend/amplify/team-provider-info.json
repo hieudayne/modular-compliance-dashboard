@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-modulardashboad-dev-82a39-authRole",
+      "UnauthRoleArn": "arn:aws:iam::140023376210:role/amplify-modulardashboad-dev-82a39-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::140023376210:role/amplify-modulardashboad-dev-82a39-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-modulardashboad-dev-82a39-deployment",
+      "UnauthRoleName": "amplify-modulardashboad-dev-82a39-unauthRole",
+      "StackName": "amplify-modulardashboad-dev-82a39",
+      "StackId": "arn:aws:cloudformation:us-east-1:140023376210:stack/amplify-modulardashboad-dev-82a39/ace22ba0-a568-11ef-9825-0ea540196039",
+      "AmplifyAppId": "d1zxxb468ykxu1"
+    },
+    "categories": {
+      "auth": {
+        "modulardashboadbee2b2b5": {}
+      }
+    }
+  }
+}
